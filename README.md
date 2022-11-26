@@ -1,2 +1,2 @@
-# aurora
+# Aurora
 Aurora flight unit
